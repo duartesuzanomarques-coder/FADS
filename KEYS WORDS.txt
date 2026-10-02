@@ -22,4 +22,6 @@ sort: sorts lines of text
 cal: shows a calendar
 whereis: finds a command's binary, source and manual
 df: shows disk space usage
-wc: counts lines, words and characters
+wc: counts lines, words and characters.
+
+Done!
