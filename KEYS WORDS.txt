@@ -1,0 +1,25 @@
+ls: lists files and folders
+pwd: shows the current directory path
+mkdir: creates a directory
+cd: changes directory
+rmdir: removes an empty directory
+cp: copies files or directories
+mv: moves or renames files
+rm: deletes files (permanently)
+uname: shows system/OS information
+locate: finds files by name (using an index)
+touch: creates an empty file or updates its timestamp
+ln: creates links (shortcuts) to files
+cat: displays file contents
+clear: clears the terminal screen
+ps: lists running processes
+man: opens a command's manual
+grep: searches for text in files
+echo: prints text to the terminal
+wget: downloads files from the internet
+whoami: shows the current username
+sort: sorts lines of text
+cal: shows a calendar
+whereis: finds a command's binary, source and manual
+df: shows disk space usage
+wc: counts lines, words and characters
